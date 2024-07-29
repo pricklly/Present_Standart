@@ -1,0 +1,8 @@
+E:\Project\Snak_imho\Snak_imho\obj\Debug\Snak_imho.csprojResolveAssemblyReference.cache
+E:\Project\Snak_imho\Snak_imho\obj\Debug\Snak_imho.MainForm.resources
+E:\Project\Snak_imho\Snak_imho\obj\Debug\Snak_imho.csproj.GenerateResource.Cache
+E:\Project\Snak_imho\Snak_imho\bin\Debug\Snak_imho.exe.config
+E:\Project\Snak_imho\Snak_imho\bin\Debug\Snak_imho.exe
+E:\Project\Snak_imho\Snak_imho\bin\Debug\Snak_imho.pdb
+E:\Project\Snak_imho\Snak_imho\obj\Debug\Snak_imho.exe
+E:\Project\Snak_imho\Snak_imho\obj\Debug\Snak_imho.pdb
