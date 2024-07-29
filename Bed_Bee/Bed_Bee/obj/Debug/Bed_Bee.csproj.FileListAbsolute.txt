@@ -1,0 +1,8 @@
+E:\Project\Bed_Bee\Bed_Bee\bin\Debug\Bed_Bee.exe.config
+E:\Project\Bed_Bee\Bed_Bee\bin\Debug\Bed_Bee.exe
+E:\Project\Bed_Bee\Bed_Bee\bin\Debug\Bed_Bee.pdb
+E:\Project\Bed_Bee\Bed_Bee\obj\Debug\Bed_Bee.csprojResolveAssemblyReference.cache
+E:\Project\Bed_Bee\Bed_Bee\obj\Debug\Bed_Bee.MainForm.resources
+E:\Project\Bed_Bee\Bed_Bee\obj\Debug\Bed_Bee.csproj.GenerateResource.Cache
+E:\Project\Bed_Bee\Bed_Bee\obj\Debug\Bed_Bee.exe
+E:\Project\Bed_Bee\Bed_Bee\obj\Debug\Bed_Bee.pdb

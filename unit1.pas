@@ -14,14 +14,11 @@ type
 
   TForm1 = class(TForm)
     Button1: TButton;
-    chb: TCheckBox;
-    cb: TComboBox;
+    cb: TCheckBox;
     ed: TEdit;
     Image1: TImage;
     mm: TMemo;
-    Panel1: TPanel;
     procedure Button1Click(Sender: TObject);
-    procedure chbChange(Sender: TObject);
   private
 
   public
@@ -37,21 +34,18 @@ implementation
 
 { TForm1 }
 
-procedure TForm1.chbChange(Sender: TObject);
-begin
-  if (chb.Checked=True) then
-  begin
-      cb.Visible:=True;
-  end                 else
-  begin
-  cb.Visible:=False;
-  end;
-end;
-
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  mm.Lines.Add(ed.Text+' '+cb.Text);
-end;
+  mm.Lines.Add(ed.Text);
+  if (cb.Checked=True)
+  then
+  begin
+  mm.Lines.Add('All Rigth');
+  end else
+    begin
+    mm.Lines.Add('Not to-Ru');
+    end;
+  end;
 
 end.
 
